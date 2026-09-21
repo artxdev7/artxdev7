@@ -9,12 +9,10 @@
 <div>
   <p align="left"><strong>ArtX-Dev</strong></p>
   <p>👋 Hello! <strong>I'm Arthur França.</strong> I'm a technology enthusiast taking my first steps into the world of front-end web development</p>
-  <img src="evilmorty.jpg" alt="fraseevilmorty" align="right" width="170px"> 
-  <pre>
+  <blockquote>
 
-
-    
-  </pre>
+  I'm you. I just grew up. <br>- evil morty  
+  </blockquote>
  <P>I am focused on building a solid foundation in core web technologies, transforming<br> ideas into real visual projects, and honing my skills with every line of code.</P>
   
 </div>
