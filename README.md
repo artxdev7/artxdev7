@@ -3,7 +3,7 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=27&pause=1000&color=FFD700&center=true&vCenter=true&width=440&lines=+++DEVELOPER+FRONT-END" alt="Typing SVG"></a>
   
-  ![](https://komarev.com/ghpvc/?username=imlima0299-lang&abbreviated=true&color=FFFF00)
+  ![](https://komarev.com/ghpvc/?username=artxdev7&abbreviated=true&color=FFFF00)
 </div>
 <hr>
 <div>
